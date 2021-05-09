@@ -1,0 +1,10 @@
+ lengkapi source code yang terdapat pada src.zip agar output yang dihasilkan seperti pada OutputATM.txt
+monitoringnya nanti sy buat.. 
+ada beberapa kasus : 
+1.  Berhasil Login menggunakan account number dan pin yang diminta
+2.  menampilkan Balance Information:
+3.  memilih penarikan (withdrawal)
+4.  menampilkan Balance Information setelah dilakukan penarikan
+5.  Deposit funds
+6.  menampilkan Balance Information  setelah dilakukan deposit
+7.exit

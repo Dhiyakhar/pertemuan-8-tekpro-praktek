@@ -1,0 +1,111 @@
+Welcome!
+
+Please enter your account number: 12345
+
+Enter your PIN: 54321
+
+Main menu:
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 1
+
+Balance Information:
+ - Available balance: $1,000.00
+ - Total balance:     $1,200.00
+
+Main menu:
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 2
+
+Withdrawal Menu:
+1 - $20
+2 - $40
+3 - $60
+4 - $100
+5 - $200
+6 - Cancel transaction
+
+Choose a withdrawal amount: 5
+
+Your cash has been dispensed. Please take your cash now.
+
+Main menu:
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 1
+
+Balance Information:
+ - Available balance: $800.00
+ - Total balance:     $1,000.00
+
+Main menu:
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 2
+
+Withdrawal Menu:
+1 - $20
+2 - $40
+3 - $60
+4 - $100
+5 - $200
+6 - Cancel transaction
+
+Choose a withdrawal amount: 6
+
+Canceling transaction...
+
+Main menu:
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 3
+
+Please enter a deposit amount in CENTS (or 0 to cancel): 2000
+
+Please insert a deposit envelope containing $20.00.
+
+Your envelope has been received.
+NOTE: The money just deposited will not be available until we verify the amount of any enclosed cash and your checks clear.
+
+Main menu:
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 1
+
+Balance Information:
+ - Available balance: $800.00
+ - Total balance:     $1,020.00
+
+ 
+Main menu:
+1 - View my balance
+2 - Withdraw cash
+3 - Deposit funds
+4 - Exit
+
+Enter a choice: 4
+
+Exiting the system...
+
+Thank you! Goodbye!
+
+ 
